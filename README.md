@@ -34,7 +34,7 @@ This repository contains all the CSS files I created while learning and completi
 - Use it as a reference or starting point for your own projects
 
 ## 🙋‍♂️ Created By
-**👨‍💻 Harsh Mishra**
+**👨‍💻 Harsh Mishra** <br>
 Self-taught web developer & dedicated learner passionate about building beautiful, responsive websites. <br>
 
 **GitHub:** https://github.com/erharshmishra <br>
